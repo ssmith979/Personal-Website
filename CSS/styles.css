@@ -1,0 +1,493 @@
+body{
+    overflow-x: hidden;
+    width: 100%;
+    background-color: rgb(25, 58, 90);
+   
+}
+
+.jumbotron{
+  
+    position: relative;
+    top: 58pt;
+    background: url("../IMG/jumbo4.png") no-repeat center center; 
+    height: 60vw;
+    max-height: 900pt;
+    min-height: 230pt;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    
+}
+.jumbo-h{
+    text-align: center;
+    font-weight: bolder;
+    color: #feffff;
+    position: absolute;
+    top: 100pt;
+    font-size: 4vw;
+}
+
+.jumbo-p{
+
+}
+
+
+a:hover{
+    background: transparent
+}
+
+.bg-dark{
+    background:  rgba(8, 12, 17, 0.822)!important;
+}
+
+#nav-menu{
+ position: sticky;
+ right: 96%;
+    
+}
+
+.center-align{
+    text-align: right;
+    position: relative;
+    left: 50%;
+}
+
+.nav-items{
+ position: relative;
+ 
+    
+}
+
+.icon-div{
+    width: 47%;
+    min-width: 130pt;
+    position: sticky;
+    left: 90%;
+   
+}
+
+
+#code{
+    position: relative;
+    max-width: 38pt;
+    width: 20%;
+    min-width: 25pt;   
+    opacity: .9;
+    float: right;
+    display: inline;
+    padding-top: 8pt;
+    padding-bottom: 8pt;
+
+}
+
+
+#link{
+    position: relative;
+    margin-right: 8pt;
+    margin-left: 8pt;
+    padding-top: 9pt;
+    padding-bottom: 8pt;
+    max-width: 38pt;
+    width: 20%;
+    min-width: 25pt;
+    display: inline;
+    float: right;
+    opacity: .9;
+    
+}
+
+#resume{
+    position: relative;
+    max-width: 38pt;
+    width: 20%;
+    min-width: 25pt;
+    float: right;   
+    display: inline;
+    padding-top: 8pt;
+    padding-bottom: 8pt;
+    opacity: .9;
+}
+
+
+.about-div{
+    background: rgb(38, 61, 92);
+    height: fit-content;
+    padding-top: 30pt;
+    padding-bottom: 40pt;
+}
+    
+#img{
+    display: block;
+    margin: auto;
+    margin-top: 20pt;
+    border: #feffff 1.5pt solid;
+    box-shadow: #4F8A6D 1px 1px 4px;
+    position: relative;
+    width: 55%;
+    max-width: 390px;
+    min-width: 200pt;
+}
+
+.home-text-div{
+    position: relative;
+    top: 90pt;
+   
+}
+.hr-1{
+    position: relative;
+    top: 90pt;
+    background: rgb(183, 214, 201);
+
+}
+#about-h{
+    text-align: center;
+    color:  rgb(140, 174, 218);
+    position: relative;
+    top: 6%;
+    font-size: 50pt
+
+}
+#about-p{
+    position: relative;
+    top: 10%;
+    color:rgb(203, 215, 230);
+}
+
+#about-p2{
+    position: relative;
+    top: 30pt;
+    text-align: center;
+    padding-top: 14pt;
+    padding-bottom: 8pt;
+    color: rgb(140, 174, 218);
+}
+
+.contact{
+    color: rgb(140, 174, 218);
+    font-size: 15pt;
+}
+
+#email-h{
+    position: relative;
+    top:40pt;
+
+}
+
+#email{
+    position: relative;
+    top: 13pt;
+    left: 65pt;
+    color: rgb(203, 215, 230);
+    font-size: 15pt;
+}
+
+#phone-h{
+    position: relative;
+    top: 30pt;
+}
+
+#phone{
+    position: relative;
+    top: 4pt;
+    left: 65pt;
+    color: rgb(203, 215, 230);
+    font-size: 15pt;
+}
+
+#resume-h{
+    position: relative;
+    top: 14pt;
+}
+
+#resume2{
+    position: relative;
+    right: -63pt;
+    top: -26pt;
+    max-width: 38pt;
+    width: 20%;
+    min-width: 25pt;  
+    display: inline;
+    padding-top: 8pt;
+    padding-bottom: 3pt;
+    opacity: .9;
+
+}
+
+
+
+#project-div{
+    max-width: 400pt;
+    width: 30vw;
+    min-width: 200pt;
+    max-height: 300pt;
+    height: 30vw;
+    min-height: 200pt;
+    margin: auto;
+    margin-bottom: 20pt;
+    margin-top: 20pt;
+    padding: 5pt;
+ 
+    
+}
+
+#project1-h{
+    
+    text-align: center;
+    color: #0d2f57;
+    margin-top: 40pt;
+   
+  
+
+}
+
+#bazazz-img1{
+    max-width: 500pt;
+    width: 25vw;
+    min-width: 200pt;
+    max-height: 655pt;
+    height: 20vw;
+    min-height: 250pt;
+    border-radius: 10%;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    opacity: .9;
+    
+}
+
+#bazazz-img2{
+    max-width: 500pt;
+    width: 25vw;
+    min-width: 200pt;
+    max-height: 655pt;
+    height: 20vw;
+    min-height: 250pt;
+    border-radius: 10%;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    opacity: .9;
+    
+}
+
+
+
+#hover-div{
+    width: 205pt;
+    height: 250pt;
+}
+
+
+#project1-p{
+    color: #1b4e88;
+    position: relative;
+    padding-right: 25%;
+    padding-left: 25%;
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    
+}
+
+#animation{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 610pt;
+    width: 25vw;
+    min-width: 250pt;
+    max-height: 380pt;
+    height: 15vw;
+    min-height: 200pt;
+
+}
+
+.skills-div{
+    background: rgba(8, 12, 17, 0.705);
+  
+   
+}
+
+#skills-h{
+    padding: 10pt;
+    padding-top: 90pt;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40pt;  
+}
+
+#accordion1{
+    width: 26vw;
+    max-width: 450pt;
+    min-width: 200pt;
+    display: block;
+    margin: 0 auto;
+    margin-top: 60pt;
+    margin-bottom: 50pt;
+    background: rgb(29, 54, 87);
+    border-radius: 1%;
+    color: rgb(137, 162, 190);
+}
+
+
+
+.accord-btn{
+    color: rgb(197, 192, 186);
+}
+
+
+.no-margin{
+    margin: 5pt !important;
+}
+
+
+
+#linux-div{
+    height: fit-content;
+
+}
+
+#linux-p{
+  
+    margin-bottom: none;
+    position: relative;
+    text-align: center;
+ 
+}
+
+#linux-img{
+   
+ 
+    width: 6vw;
+    max-width: 150pt;
+    min-width: 60pt;
+    height: 6vw;
+    max-height: 150pt;
+    min-height: 60pt;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+#training-h{
+    text-align: center;
+    padding-bottom: 20pt;
+    padding-top: 90pt;
+    font-weight: bold;
+    font-size: 40pt;    
+}
+
+#training-p1{
+    position: relative;
+    top: 20pt;
+   
+    
+   
+}
+
+#training-p2{
+    position: relative;
+    top: 30pt;
+
+    
+}
+
+#python-div{
+
+
+}
+
+#python-p{
+    text-align: center;
+    position: relative;
+    margin-top: 30pt;
+
+}
+
+#python-img{
+    width: 6vw;
+    max-width: 150pt;
+    min-width: 60pt;
+    height: 6vw;
+    max-height: 150pt;
+    min-height: 60pt;
+    display: block;
+    margin: 0 auto;
+    
+  
+    
+ 
+}
+
+#training-p3{
+    position: relative;
+    top: 80pt;
+    
+   
+}
+
+.left-margin{
+  margin-left: 20%;
+}
+
+
+
+.projects-div{
+    background:rgb(38, 61, 92);
+    position: relative;
+
+}
+
+.align{
+    display: block;
+    margin: 0 auto;
+    margin-top: 40pt;
+    width: 340pt;
+    max-width: 500pt;
+    min-width: 200pt;
+    height: 190pt;
+ 
+}
+
+#projects-h{
+    text-align: center;
+    padding: 20pt;
+    font-weight: bold;
+    font-size: 50pt;
+}
+
+
+
+@media (min-width: 740px) {
+    .margin-left{
+        float: none;
+    }
+}
+
+@media (min-width: 992px) {
+    .margin-left{
+        float: right;
+    }
+
+    .margin-right{
+        margin-right: 30%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .margin-left{
+        margin-left: 20%;
+    }
+
+    .margin-right{
+        margin-right: 50%;
+    }
+}
